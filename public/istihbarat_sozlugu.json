@@ -1,0 +1,1110 @@
+[
+    {
+        "term": "AÇIK (BEYAZ) PROPAGANDA",
+        "description": "Kaynakla propaganda merkezi (yayıcı) arasındaki ilişkinin açık olduğu, kim tarafından, ne amaçla yapıldığı bilinen propaganda türü."
+    },
+    {
+        "term": "AÇIK BİLGİ",
+        "description": "1- İstihbari bir değeri olsa dahi elde edilmesi için gizli bir faaliyete ihtiyaç duyulmayan bilgi.2- Gizlenmesi gerekmeyen ve hiçbir gizlilik derecesini haiz olmayan veri, bilgi ve haber."
+    },
+    {
+        "term": "AÇIK FAALİYET",
+        "description": "1- Gizlenmesine gerek duyulmadan icra edilen ve yasal dayanağı bulunan faaliyet.2- Varlıkları ve kimlikleri bilinen kuruluşlar ve kişiler tarafından yürütülen, toplumca bilinebilen, icrası meşru ve yasal olan çalışma."
+    },
+    {
+        "term": "AÇIK HAT",
+        "description": "Asıl kullanıcısının adına resmî olarak kayıtlı olmayan, belirli bir süre için kullanıldıktan sonra imha edilen GSM hattı."
+    },
+    {
+        "term": "AÇIK KAYNAK",
+        "description": "Açıklanması, temin edilmesi ve kullanılmasında sakınca bulunmayan (gizli olmayan) her tür bilgi, belge, malzeme veya bu tür bilgileri verebilecek kişi, kurum, kuruluşlar."
+    },
+    {
+        "term": "AÇIK KAYNAK ARAŞTIRMACISI",
+        "description": "Kamuya açık veriye; arama motoru, sosyal medya (sosyal ağ, blog, forum vb.), derin web, dizinler gibi açık bilgi kaynaklarından, belirli bir amaç doğrultusunda uygun arama teknikleri ile ulaşarak bilgi derleyen ve süzgeçten geçirerek yararlı bilgiye dönüştüren kişi."
+    },
+    {
+        "term": "AÇIK KAYNAK İSTİHBARATI",
+        "description": "Açık kaynakların dikkatli bir şekilde analiz edilmesi sonrasında, etkin ve güvenilir kaynaklardan bilgi toplanması ve bu bilginin kullanılabilir istihbarat üretimi için istihbarat analizcisine zamanında ve doğru formatta sağlanabilmesi."
+    },
+    {
+        "term": "ADLİ BİLİŞİM",
+        "description": "Özel inceleme ve analiz teknikleri kullanılarak, veri depolama özelliği bulunan tüm elektronik medya ortamları üzerinde yer alan adli kanıt veya istihbari nitelikteki verinin elde edilmesi, muhafazası, çözümlenmesi ve raporlanması süreci."
+    },
+    {
+        "term": "AJAN",
+        "description": "Hedefe yönelik etkin veya yönlendirici konumda olmak kaydıyla, istihbari ve operasyonel faaliyet yürütebilen şahıs."
+    },
+    {
+        "term": "AKTİF ÖNLEMLER",
+        "description": "1920’lerden beri Sovyet veya Rus Hükûmetleri tarafından yürütülen siyasi savaş. Sovyetler Birliği’nin dış politika önceliklerine dayanan ve halen Rusya Federasyonu’nda sürdürüldüğü değerlendirilen; dezenformasyon, propaganda, aldatma, sabotaj, istikrarsızlaştırma, yıkım ve casusluk gibi saldırgan programları içeren önlemler."
+    },
+    {
+        "term": "AKTİVİZM",
+        "description": "Siyasi veya sosyal bir amaca ulaşmak için doğrudan ve militan eylemde bulunma politikası."
+    },
+    {
+        "term": "AKUSTİK İSTİHBARAT",
+        "description": "Ses verilerini derleyen ve işleyen bir istihbarat toplama yöntemi. Ölçüm ve İz İstihbaratı’nın (MASINT) bir alt disiplini. Helikopterler ve alçak irtifadan uçan uçaklar için kullanılsa da aslen deniz yüzeyinde ve deniz altındaki araçlara yöneliktir."
+    },
+    {
+        "term": "ALARM İLANI",
+        "description": "Gerginlik ve kriz durumlarında, sivil ve askerî sahada belirli bir hazırlık derecesine ulaşılması amacı ile alarm safhalarının yürürlüğe konulması işlemi."
+    },
+    {
+        "term": "ALDATMA OPERASYONU",
+        "description": "Bir istihbarat teşkilatı tarafından, diğer bir istihbarat servisinin belli bir konuda doğru olmayan bir şeye, inanmasını, yanlış yönlendirilmesini veya hata yapmasını sağlamak amacıyla düzenlenen bir istihbarata karşı koyma operasyonu."
+    },
+    {
+        "term": "ALGI YÖNETİMİ",
+        "description": "Psikolojik savaş, manipülasyon, yalan haber/bilgi üretme, komplo teorileri, reklamlar, sansürler vb. unsurlar kullanarak hedef kitlenin düşünce/davranış tarzını yönlendirme."
+    },
+    {
+        "term": "ANALİST",
+        "description": "1- Analitik süreç sonucunda üretilen, karar alma sürecinde temel kaynak olan analiz raporlarını oluşturmak ve bu raporları ilgili makamlara sunmakla görevlendirilen, konusunda uzman personel.2- Uygun çözümlemeler yapan, bu çözümlemelerini analiz raporu haline getirerek istihbarat üretim sürecine katkıda bulunan personel."
+    },
+    {
+        "term": "ANALİZ",
+        "description": "1- Haber raporlarındaki unsurların kıymetlendirmesini yaparak bu unsurların önemlilerini önemsiz olanlardan süzme, ayıklama veya eleme işlemi (değerlendirme/haber analizi).2- İstihbarat raporları üzerinde uygun çözümlemeler yapma (istihbarat analizi).3- Ham bilgi ve verilerin, karar alıcıların ihtiyaçlarına yönelik olarak tanım, açıklama ve yargılara dönüştürülme süreci."
+    },
+    {
+        "term": "ANTİ-ZARARLI YAZILIM",
+        "description": "Bilgisayar virüsleri, solucanlar, trojanlar, zararlı tarayıcı eklentileri, adware ve spyware dâhil olmak üzere birçok malware tehdidini tespit etmek veya ortadan kaldırmak için yaygın olarak kullanılan teknoloji."
+    },
+    {
+        "term": "ARKA KAPI",
+        "description": "Bilgisayar sistemleri veya yazılımların geliştirme sürecinde kolaylık sağlaması amacıyla kullanılan ya da kötü amaçlı olarak yerleştirilen ve sistem koruyucu önlemlerin aşılmasına olanak veren gizli mekanizma."
+    },
+    {
+        "term": "ARŞİV ARAŞTIRMASI",
+        "description": "Kişinin adli sicil kaydının, kolluk kuvvetleri tarafından aranıp aranmadığının, kişi hakkında herhangi bir tahdit olup olmadığının, kesinleşmiş mahkeme kararları ve 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu’nun 171’inci maddesinin beşinci ve 231’inci maddesinin 13’üncü fıkraları kapsamında alınan kararlar ile kişi hakkında devam eden veya sonuçlanmış olan soruşturma ya da kovuşturmalar kapsamındaki olguların, hakkında kamu görevinden çıkarılma ya da kesinleşmiş memurluktan çıkarılma cezası olup olmadığının mevcut kayıtlardan tespit edilmesi."
+    },
+    {
+        "term": "ARŞİV MALZEMESİ",
+        "description": "Teşkilât faaliyetleri doğrultusunda toplanan, işlenen, derlenen ve istihbari/idari çalışmalar açısından fiziksel ortamda muhafaza edilmesi gereken her tür evrak, defter, resim, plan, harita, proje, mühür, damga, fotoğraf, film, ses ve görüntü bandı, baskı ve benzeri bilgi, belge ve malzemelerin tümü."
+    },
+    {
+        "term": "ASİMETRİK SAVAŞ",
+        "description": "Askerî güç, strateji, taktik, kaynak ve hedefler açısından aralarında görece önemli derecede fark olan iki ya da daha fazla devlet veya devlet dışı aktör arasındaki savaş."
+    },
+    {
+        "term": "ASKERÎ COĞRAFYA İSTİHBARATI",
+        "description": "Devletlerin dünya üzerindeki yerini, önemini, ülkelerin tabii ve suni etkenlerini, iklim ve hava koşullarını askerî harekât yönünden inceleyen bir coğrafi istihbarat alt disiplini."
+    },
+    {
+        "term": "ASKERÎ DİPLOMASİ (SAVUNMA DİPLOMASİSİ)",
+        "description": "Başta askerî ataşeler olmak üzere askerî personel aracılığıyla yürütülen, uluslararası çatışmaların önlenmesi ve anlaşmazlıkların çözümlenmesini içeren diplomatik faaliyetler."
+    },
+    {
+        "term": "ASKERÎ İSTİHBARAT",
+        "description": "Hedef veya hedef olması muhtemel ülkelerin silahlı kuvvetlerinin büyüklüğünü, teşkilatını, stratejik ve taktik doktrinlerini, savaşa ve harekâta hazırlık derecelerini ve yeteneklerini inceleyen istihbarat. “Silahlı Kuvvetler İstihbaratı” olarak da adlandırılır. Stratejik, operasyonel ve taktiksel olarak üç temel şekilde yürütülür."
+    },
+    {
+        "term": "BAKANLIK VE KURUMLAR İSTİHBARATI",
+        "description": "Bakanlık ve kurumların kendi görevlerini ve sorumluluklarını yerine getirmek için ihtiyaç duydukları bilgilere yönelik Teşkilât tarafından hazırlanan/elde edilen, ikaz, temel, cari istihbarat türü."
+    },
+    {
+        "term": "BAL TUZAĞI",
+        "description": "Hedefin kurduğu duygusal veya gayrimeşru cinsel ilişkiyi açıklayarak kişinin itibarına zarar vermek tehdidiyle canlı kaynak teminine yönelik operasyon."
+    },
+    {
+        "term": "BASKI GRUBU",
+        "description": "Hedef birey, topluluk, halk ve ulusları etki ve baskı altına almak maksadıyla kullanılan, mevcutta bulunan veya bir istihbarat örgütü tarafından oluşturulmuş, kimlik, kişilik ve mahiyet itibarı ile büyük ağırlık taşıyan veya taşıdığı izlenimi yaratılan oluşumlar."
+    },
+    {
+        "term": "BAŞ AJAN",
+        "description": "Bir gizli servisin kontrolü altında, kendisine verilen görev ve sorumluluklar çerçevesinde, bir operasyon planı uyarınca, başında bulunduğu gizli faaliyet şebekesini yöneten, gizli faaliyeti hedefine güvenli bir şekilde yönlendirecek liderlik yeteneklerine, bilgi ve tecrübeye sahip, servise bağlılığını kanıtlamış ajan."
+    },
+    {
+        "term": "BEYİN YIKAMA",
+        "description": "Kişiyi, kendisine özgü düşünce ve dünya görüşüne yabancılaştırmak, istihbarat teşkilatının amaçlarına hizmet edecek şekilde düşünür ve davranır duruma getirmek amacıyla çeşitli yöntemler kullanarak etki altına alma."
+    },
+    {
+        "term": "BİLGİ GÜVENLİĞİ",
+        "description": "Bilginin ve bilgi sistemlerinin gizlilik, bütünlük ve erişilebilirliklerinin korunması için yürütülen faaliyetler bütünü."
+    },
+    {
+        "term": "BİLGİSAYAR KORSANI",
+        "description": "Bir bilgisayar sistemine yetkisiz erişim sağlamaya çalışan kötü niyetli birey."
+    },
+    {
+        "term": "BİLİMSEL VE TEKNİK İSTİHBARAT",
+        "description": "Hedef veya hedef olması muhtemel ülkelerin, bilimsel ve teknolojik gücünün büyüklüğünü, yeterlilik derecelerini, gelişme ve genişleme imkânlarını, tesislerini ve her tür malzemenin (silah, araç, makine vb.) teknik özellik ve kabiliyetlerini inceleyen istihbarat alanı."
+    },
+    {
+        "term": "BİLİŞİM",
+        "description": "Bilgi ve teknolojinin birlikte kullanılarak sonuç üretilmesine yönelik veri işleme, iletişim vb. konularını içeren bilim dalı."
+    },
+    {
+        "term": "BİLİŞİMSEL PROPAGANDA",
+        "description": "Sosyal medya ağları üzerinde yanıltıcı bilginin yayılması amacıyla algoritmalar, otomasyon (bot hesaplar) ve insan katkısıyla gerçekleştirilen dezenformasyon ve manipülasyon çalışması."
+    },
+    {
+        "term": "BİLMESİ GEREKEN İLKESİ",
+        "description": "İstihbari bir bilgiyi, görev ve sorumluluğu gereği öğrenen, incelemek, gereğini yerine getirmek ve korumakla sorumlu olan görevlinin, yetkisi düzeyinde bilgi sahibi olması."
+    },
+    {
+        "term": "BİYOGRAFİK BİLGİ",
+        "description": "Bireylerin kimlik bilgileri, kişisel özellikleri, inançları, olumlu-olumsuz, kuvvetli-zayıf yanları, fiziki tarifleri, yaşam öyküleri gibi kişisel nitelikteki bilgiler."
+    },
+    {
+        "term": "BİYOGRAFİK İSTİHBARAT",
+        "description": "Bir ülkede önemli ve/veya ileride önem kazanma olasılığı bulunan kişilerin özgeçmişleri, ele alınmalarına zemin hazırlayıcı zafiyetleri, karakteristik özellikleri ve dünya görüşleri hakkında üretilen istihbarat."
+    },
+    {
+        "term": "BİYOMETRİ",
+        "description": "1- Kişinin birtakım biyolojik özelliklerinin analizi sonucunda uygulanan kişiyi tanıma teknikleri.2- Bireyin ölçülebilir anatomik, fiziksel ve davranışsal özelliklerine dayalı tanıma süreci."
+    },
+    {
+        "term": "BİYOMETRİK İSTİHBARAT",
+        "description": "Hedef kişilerin kimliğini tespit edebilmek, belirlemek ve ayırt etmek için kayıt altına alınan kişilerin sistemde arşivlenen biyometrik veriler ile karşılaştırılması/analizi ile izini sürme süreci."
+    },
+    {
+        "term": "BLOKZİNCİR",
+        "description": "Şifreleme (kriptografi) kullanılarak birbirine bağlanan ve sonrasında değiştirilemeyen bloklardan oluşan, herhangi bir otoriteye bağlı olmayan kayıt listesi."
+    },
+    {
+        "term": "BOTNET",
+        "description": "Bilgisayar korsanı (hacker) tarafından zararlı yazılım bulaştırılarak uzaktan emir alabilecek hale getirilmiş (kontrolü bilgisayar korsanına geçmiş) internet bağlantılı bilgisayar, mobil cihaz ve nesnelerin interneti (IoT-IP kameralar, akıllı saatler vb.) gibi cihazlar topluluğu."
+    },
+    {
+        "term": "BÖCEK",
+        "description": "Teknik istihbarat kapsamında, genellikle gizli dinleme, bazen de gözetleme amacıyla kullanılan minyatür cihazlara, ebatlarının küçüklüğünden dolayı verilen genel ad."
+    },
+    {
+        "term": "BÜYÜK VERİ",
+        "description": "Boyutu, çeşitliliği ve işlenmesi gereken hız itibarıyla oldukça büyük olan ve geleneksel veri işleme araçlarıyla işlenmesi mümkün olmayan veriler için kullanılan genel ad."
+    },
+    {
+        "term": "CARİ (ANLIK) İSTİHBARAT",
+        "description": "İstihbarat ihtiyacı duyulan hedeflerin, güncel durumdaki önemli gelişmelerini izleyen ve inceleyen istihbarat dalı."
+    },
+    {
+        "term": "CASUS",
+        "description": "Bir devlet namına başka bir devletin siyasi, askerî, ekonomik, teknik ve başka alanlarda gizli bilgilerini toplayan ve diğer devlete aktaran kişi."
+    },
+    {
+        "term": "CASUS YAZILIM",
+        "description": "Bilgisayar, tablet, akıllı telefon gibi cihazlardaki etkinlikleri veya bilgileri izinsiz olarak izleyen ve başka bir yere gönderen kötü amaçlı yazılım."
+    },
+    {
+        "term": "CAŞIT/CAŞUT/CAŞUTLAMA",
+        "description": "Eski çağlarda Orta Asya’da kurulan Türk Devletleri’nde faaliyet gösteren casuslara ve faaliyetlerine verilen ad."
+    },
+    {
+        "term": "COĞRAFİ İSTİHBARAT",
+        "description": "Hedef veya hedef olması muhtemel herhangi bir yerin fiziki özelliklerini ve coğrafi olarak referanslandırılabilecek faaliyetlerini tanımlamak, değerlendirmek ve görselleştirmek amacıyla elde edilen verilerin gerektiğinde elektronik, açık kaynak, sinyal ve insan istihbaratıyla sentezleyerek kullanılması, işlenmesi ve analiz edilmesi süreçlerini içeren istihbarat."
+    },
+    {
+        "term": "ÇEREZ",
+        "description": "Kullanıcıların internet sitelerini ziyaretleri sırasında, sitenin kullanıcı bilgisayarına/cep telefonuna web tarayıcısı aracılığı ile kaydettiği küçük veri dosyaları. Çerez dosyalarında, site giriş kullanıcı adı, şifre, ziyaretçinin tercihleri gibi, kullanıcının siteyi tekrar ziyaretinde web sitesinin kullanıcıyı ve tercihlerini hatırlamasını sağlayacak veriler yer alır."
+    },
+    {
+        "term": "ÇOK GİZLİ",
+        "description": "Açıklanması veya yetkisiz kişilerce öğrenilmesi hâlinde devletin dış ilişkilerine, millî savunmasına, millî güvenliğine ve müttefiklerle olan faaliyetlerine önemli derecede zarar verebilecek belgeler."
+    },
+    {
+        "term": "ÇOK İVEDİ",
+        "description": "Devletin işleyişi veya güvenliğine ilişkin istihbari/operasyonel bilgi içeren, işlem yönü itibarıyla hızlı hareket edilmesi gereken, talep veya işlem makamınca gönderilmesini müteakip işleme konularak veya onay makamına sunularak sonuçlandırılan ve muhatabına cevabi dönüş yapılan yazılar. İstihbari ve operasyonel her tür önemli olayı içeren konular için kullanılır."
+    },
+    {
+        "term": "ÇOK KANALLI",
+        "description": "Telli ya da telsiz bir haberleşme hattı üzerinden birden fazla görüşme kanalının aynı anda haberleşmesi (alma ve gönderme)."
+    },
+    {
+        "term": "ÇÖZÜMLEYİCİ",
+        "description": "Kayıtlı internet trafiğini çözümleyen, işlevi kapsamında bilgileri anlaşılır forma getiren yazılım."
+    },
+    {
+        "term": "DARKNET (KARANLIK İNTERNET)",
+        "description": "Arama motorları ile ulaşılamayan, standart web tarayıcıları ile ziyaret edilemeyen, yalnızca özel internet altyapılarının (TOR-The Onion Router) ve bunlara ait özel yazılımların kullanılması sureti ile erişilebilen internet içeriğinin bulunduğu alan."
+    },
+    {
+        "term": "DARKWEB",
+        "description": "Darknet ağlarının tümüne verilen ad."
+    },
+    {
+        "term": "DDoS (DAĞITIK HİZMET DURDURMA/ENGELLEME) SALDIRISI",
+        "description": "Takip edilemeyecek kadar çok sayıda, farklı noktalardan bilinçli şekilde sürekli ve yoğun istekler göndererek aşırı yüklenilmesi sonucu hedef bilgisayar veya ağ kaynağının hizmet veremez hale getirilmesi."
+    },
+    {
+        "term": "DENİZ ESPİYONAJI",
+        "description": "Hedef veya hedef olması muhtemel ülkelerin stratejik önemi haiz askerî ve sivil tesisleri ile su üstü ve altı deniz vasıtalarına yönelik, genellikle gemi adamı nitelikli kaynaklar kullanmak suretiyle yürütülen gizli, planlı bir haber/doküman toplama faaliyeti."
+    },
+    {
+        "term": "DERİN İNTERNET",
+        "description": "İnternette, standart arama motorlarıyla indekslenmemiş içeriklerin bulunduğu ve Görünmeyen İnternet olarak da adlandırılan alan."
+    },
+    {
+        "term": "DEVLET İSTİHBARATI",
+        "description": "Türkiye Cumhuriyeti’nin ülkesi ve milleti ile bütünlüğüne, varlığına, bağımsızlığına, güvenliğine, anayasal düzenine ve millî gücünü oluşturan tüm unsurlarına karşı içten ve dıştan yöneltilen mevcut ve muhtemel faaliyetler hakkında millî güvenlik istihbaratının devlet çapında oluşturulması."
+    },
+    {
+        "term": "DEVLET SIRRI",
+        "description": "Yetkili makamların kanun ve diğer düzenleyici yasal/yönetsel işlemlere göre açıklanmasını yasakladığı ve niteliği bakımından gizli kalması gereken; genellikle devletin güvenliği, iç veya dış siyasi yararları ile ilişkili bilgi ve belgeler."
+    },
+    {
+        "term": "DEZENFORMASYON (BİLGİ ÇARPITMA)",
+        "description": "Hedefi aldatmayı, yanlış bilgi vermeyi veya yanlış yöne sevk etmeyi amaçlayan, çoğunlukla doğru bilgilerle birleştirilmiş, kaynağı belli edilmeyen veya yanlış kaynaklı, gizli veya açık, yazılı ve sözlü, sahte, tamam olmayan, yanlış bilgileri içeren haberler, mesajlar."
+    },
+    {
+        "term": "DİJİTAL ADLİ İNCELEME",
+        "description": "Bir siber güvenlik olayının nasıl meydana geldiğini veya kimler tarafından gerçekleştirildiğini belirleyebilmek için dijital kanıtların toplanması, değerlendirilmesi, belgelendirilmesi ve sınıflandırılması süreci."
+    },
+    {
+        "term": "DİPLOMAT",
+        "description": "Yabancı bir ülkede bulunan diplomatik misyonda, devletini temsil etmekle ve devlet işlerini yürütmekle görevlendirilmiş, özel statüsü bulunan resmî memur."
+    },
+    {
+        "term": "DİPLOMATİK DOKUNULMAZLIK VE BAĞIŞIKLIKLAR",
+        "description": "Diplomatik temsilcilik, elçilik, konsolosluk mensuplarının, yabancı bir ülkedeki görevleri esnasında, “Viyana Sözleşmeleri” kapsamında, mütekabiliyet ilkesi doğrultusunda sahip oldukları kişi, haberleşme ve bina dokunulmazlığı ile ilgili ayrıcalıklar."
+    },
+    {
+        "term": "DİPLOMATİK MİSYON ŞEFİ",
+        "description": "Diplomatik misyonun bulunduğu ülkede, kendi ülkesini temsil etmekle görevli en üst amir, diğer misyon birimlerinin bağlı olduğu amir."
+    },
+    {
+        "term": "DİPLOMATİK TEMSİLCİLİK",
+        "description": "Türkiye Cumhuriyeti Devleti’ne bağlı olarak yurt dışında faaliyet gösteren diplomatik misyon ve konsolosluk ile uluslararası kurum ve kuruluşlarda ülkemize ait kontenjan, kadro, ofis ve temsilcilikler."
+    },
+    {
+        "term": "DİRİJAN",
+        "description": "Bir örgütü, şebekeyi, gizli veya yıkıcı faaliyeti yönlendiren, denetleyen ve yöneten kişi veya kişiler."
+    },
+    {
+        "term": "DNS-ALAN ADI SİSTEMİ",
+        "description": "İnternet üzerinden ulaşılabilen bilgisayarlara, bu bilgisayarların gerçek sayısal kimlikleri olan IP adreslerinden değil de kelime temelli adreslerinden ulaşılmasını sağlayan, hiyerarşik ve merkeziyetsiz isimlendirme sistemi."
+    },
+    {
+        "term": "DOĞRULUK",
+        "description": "1- Bir istihbarat kaynağının veya değerlendirmesinin geçerlilik ve gerçeklik durumu.2- Alınan bilginin, birbirinden bağımsız birden çok kaynak üzerinden teyit edilebilmesi."
+    },
+    {
+        "term": "DoS (HİZMET DURDURMA/ENGELLEME) SALDIRISI",
+        "description": "Bilinçli şekilde sürekli ve yoğun istekler göndererek aşırı yüklenilmesi sonucu hedef bilgisayar veya ağ kaynağının hizmet veremez hale getirilmesi."
+    },
+    {
+        "term": "DUBL AJAN",
+        "description": "İki ayrı istihbarat teşkilatı tarafından angaje edilmiş ancak birine sadık kalıp diğerine ihanet eden ajan."
+    },
+    {
+        "term": "E-MAIL ZARARLI YAZILIMI",
+        "description": "E-mail aracılığıyla yayılan zararlı bir yazılım. Virüslerin yayılması için kullanıcının ekteki dosyaya veya linke tıklaması gerekir."
+    },
+    {
+        "term": "EKONOMİK VE FİNANSAL İSTİHBARAT",
+        "description": "Hedef veya hedef olması muhtemel ülkelerin, ekonomilerinin genel durumunu (gelişim, üretim, iş gücü, finans, vergi sistemi vb.), gücünü ve ekonomi politikalarını tespite çalışan ve inceleyen istihbarat dalı."
+    },
+    {
+        "term": "EKONOMİK YIKICILIK",
+        "description": "Ekonomik alanı sistematik olarak içeriden tahrip etmek, ele geçirmek, istikrarı bozmak veya ekonomik büyümeyi yavaşlatmak amacıyla dışa bağımlılığı artırarak mali ve finansal bağımsızlığın ortadan kaldırılmasına yönelik faaliyetler."
+    },
+    {
+        "term": "EL YAPIMI PATLAYICI (EYP)",
+        "description": "Değişik amaçlar için kullanılan ve piyasada serbest olarak satışı yapılan kimyasal maddeler ile en az bir yanıcı/yakıcı maddenin belirli bir oranda birleştirilmesi sonucu elde edilen patlayıcının bir düzenek vasıtasıyla istendiğinde infilak ettirilecek şekilde hazırlanması."
+    },
+    {
+        "term": "ELEKTRO OPTİK İSTİHBARAT",
+        "description": "Elektromanyetik spektrumda, ultraviyole (0.01 μm) frekans bandı ile kızılötesi (1000 μm) frekans bandı aralığında yapılan çalışmalardan elde edilen istihbarat."
+    },
+    {
+        "term": "ELEKTRONİK İSTİHBARAT",
+        "description": "Hedef veya hedef olması muhtemel devletlerin, haberleşme amacı dışında (nükleer patlama ve radyoaktif kaynaklardan yayınlanan elektromanyetik yayınlar hariç) yaptıkları elektromanyetik yayınlardan toplanan bilgilerden elde edilen istihbarat."
+    },
+    {
+        "term": "ELEKTRONİK SAVAŞ",
+        "description": "Düşmana saldırmak için elektromanyetik ve yönlendirilmiş enerji kullanımını içeren askerî harekât."
+    },
+    {
+        "term": "EMARE",
+        "description": "Belli bir hareket tarzının uygulanıp uygulanmayacağını veya herhangi bir olgunun mevcut olup olmadığını gösteren, karşı taraf hareketlerinin olumlu veya olumsuz herhangi bir kanıtı/işareti."
+    },
+    {
+        "term": "ENDÜSTRİYEL ESPİYONAJ",
+        "description": "Bir rakibin endüstriyel sırlarının ve/veya lojistiğinin ticari bir avantaj sağlamak amacıyla gizli operasyonlar vasıtasıyla elde edilmesi."
+    },
+    {
+        "term": "ENTELİJANS",
+        "description": "Bir devletin, mevcut veya muhtemel hasımlarına karşı yürüttüğü pozitif istihbarat faaliyetleri."
+    },
+    {
+        "term": "ENTERSEPSİYON",
+        "description": "İstihbarat niteliği taşıyan ses, görüntü, metin gibi bilgileri dinleme, görüntüleme, kaydetme."
+    },
+    {
+        "term": "ESPİYONAJ",
+        "description": "Hedef veya hedef olması muhtemel ülkelerle ilgili olarak, başta sekiz ana konu olmak üzere gizli, yarı açık ve gerektiğinde açık kaynaklardan, genellikle kaynak kullanmak suretiyle yürütülen gizli, planlı aktif/taarruzi bir haber toplama faaliyeti. “Casusluk Faaliyeti” olarak da adlandırılır."
+    },
+    {
+        "term": "ETKİ AJANI",
+        "description": "Düşman topraklarında Etki (Nüfuz) Operasyonları yürüten; fikrî yapısı, kariyeri, pozisyonu ve kişiliği itibarıyla, fert ve toplumlar üzerinde görüş oluşturma, mevcut görüşü güçlendirme ya da değiştirme imkân ve kabiliyetini haiz (görüş lideri) ajan."
+    },
+    {
+        "term": "ETKİ OPERASYONU",
+        "description": "Düşman bir ülkedeki etki ajanları aracılığıyla, iç ve dış politikayı yürüten insanları istenen yönde etkilemeyi hedefleyen operasyon. Eski tabirle “Nüfuz veya Enflüanz Operasyonu”dur."
+    },
+    {
+        "term": "EXPLOIT",
+        "description": "Bilgisayar yazılımı veya donanımının, barındırdığı hatalar ya da güvenlik açıklarının bilinçli olarak kötüye kullanılması vasıtasıyla, istenmeyen şekilde davranmasını sağlayan yazılım, veri parçası ya da komut dizisi."
+    },
+    {
+        "term": "EZOP DİLİ",
+        "description": "İma yoluyla anlatım."
+    },
+    {
+        "term": "FIRSAT OPERASYONU",
+        "description": "Hedefin hareketlerine bağlı olarak, aniden oluşan fırsatlardan istifade edilerek yapılan operasyon."
+    },
+    {
+        "term": "FİDYE YAZILIMI",
+        "description": "Kurbana ait verileri şifreleyen ve fidye talep eden (eylem, ücret vb.), fidye karşılanana veya verilen süre dolana kadar söz konusu verilerin şifreli kalmasını sağlayan kötü amaçlı yazılım türü."
+    },
+    {
+        "term": "FİZİKİ TAKİP",
+        "description": "Hedeflerin izlenmesi amacıyla yaya veya araçla gerçekleştirilen faaliyet."
+    },
+    {
+        "term": "FİZİKİ TARİF",
+        "description": "Kişi, silah, araç, gereç, yol, yapı ve yeryüzü parçalarının dış görünüşlerinin ve ayırt edici özelliklerinin ayrıntılarıyla anlatımı."
+    },
+    {
+        "term": "FOTOGRAMETRİ",
+        "description": "Amacına uygun olarak alınmış fotoğrafik görüntülerden yararlanarak, arazinin topoğrafik yüzeyleri ve detayları hakkında güvenilir ölçüm ve bilgi elde etme bilimi ve teknolojisi."
+    },
+    {
+        "term": "FOTOĞRAF İSTİHBARATI",
+        "description": "1- Kara, deniz ve hava haritaları ve mozaik yapma dışındaki askerî hava fotoğrafçılığı. Düşmanın hareketlerini, toplanmalarını, faaliyetlerini ve kuvvetleri ile savaş sırasında bombardımanların etkileri hakkında bilgi elde etmeye yönelik fotoğraflama çalışmalarının hasılası üzerinden derlenen bilgilerle oluşturulan istihbarat.2- Özellikle hava fotoğraflarının, doğrudan doğruya etüt ve yorumu ile elde edilen istihbarat."
+    },
+    {
+        "term": "GİZLİ",
+        "description": "1- Başkalarına duyurulmak istenmeyen, saklanan, görünmez durumda olan, niteliği bilinmeyen ya da ne olduğu anlaşılamayan, yasa dışı olan (gizli dernek vb.), kendini belli etmeyen.2- İzinsiz açıklanması veya yetkisiz kişilerce öğrenilmesi hâlinde devletin menfaatlerine, güvenlik, istihbarat ve teknoloji faaliyetlerine zarar verebilecek belgeler."
+    },
+    {
+        "term": "GİZLİ BİLGİ",
+        "description": "Açık kaynaklar vasıtasıyla ulaşılamayan, gizlilik derecesini haiz, istihbari bir değer taşıyan ve elde edilmesi için gizli faaliyet yürütülen her tür bilgi."
+    },
+    {
+        "term": "GİZLİ FAALİYET",
+        "description": "Açık çalışmalarla elde edilmesi imkânsız ve tehlike yaratabilecek konumdaki hedefler veya amaçlara ilişkin bilgilerin, istihbarat ilke ve yöntemleriyle elde edilmesi için yürütülen faaliyet."
+    },
+    {
+        "term": "GİZLİ KAÇIŞ",
+        "description": "Karşı tarafın veya düşmanın kontrolü altındaki bölgelerde bulunan personel veya birimlerin gizlice bölgeden tahliye edilmesi."
+    },
+    {
+        "term": "GİZLİ SAVAŞ",
+        "description": "Soğuk Savaş kaynaklarının, hedef birey ya da toplulukları, amaç ve hedeflerine engel olmaktan alıkoymak, caydırmak veya saf dışı etmek amacıyla yürüttükleri; araç olarak ikna, satın alma, itham, iftira, tehdit, karalama, küçük düşürme, şantaj, dövme, öldürme ve sıcak savaş yöntemlerinin kullanıldığı Soğuk Savaş alt birimi."
+    },
+    {
+        "term": "GİZLİ YAZI (STİN)",
+        "description": "Gizli haberleşmede kullanılan, özel kimyasal maddelerle yazılan ve ancak belli işlemlerden geçirildikten sonra görünür duruma gelen yazı."
+    },
+    {
+        "term": "GİZLİLİK DERECELİ EVRAK",
+        "description": "Gizlilik derecesini haiz, sadece yetkilendirilmiş kişilerin ulaşabileceği, hasım istihbarat servislerinin ele geçirmeye çalıştıkları her tür doküman."
+    },
+    {
+        "term": "GİZLİLİK DERECESİ",
+        "description": "Her tür haber, bilgi, doküman, evrak, resmî yazı ve benzerlerinin güvenlik bakımından gizlilik dereceleri belirlenmek suretiyle özel gruplara ayrılması. Çok Gizli, Gizli ve Hizmete Özel olmak üzere üç adet millî gizlilik derecesi bulunur."
+    },
+    {
+        "term": "GÖRÜNTÜ BÖLGE ANALİZİ",
+        "description": "Geniş ölçekli alanlarda yol kontrol noktaları, tahkimatlar, mevziler, muhabere anten direkleri, köprüler, barikatlar, hasarlı yapılar, dikkat çekici alanlar gibi unsurların tespit edilerek işaretlenmesi, ölçülebilir nitelikte olanların ölçülmesi, koordinatlandırılması ve yorumlanması suretiyle gerçekleştirilen analiz."
+    },
+    {
+        "term": "GÖRÜNTÜ DEĞİŞİM ANALİZİ",
+        "description": "Temel analiz çalışması tamamlanmış olan bölgenin, eski ve yeni tarihli görüntülerinin karşılaştırılmasıyla farklılıkların tanımlanması, işaretlenmesi, ölçülebilir nitelikte olanların ölçülmesi, koordinatlandırılması ve yorumlanması suretiyle gerçekleştirilen analiz."
+    },
+    {
+        "term": "GÖRÜNTÜ HEDEF ANALİZİ",
+        "description": "Özel bir hedefin mümkün olan en kısa sürede tanımlanması, işaretlenmesi, ölçülebilir nitelikte olanların ölçülmesi, koordinatlandırılması ve yorumlanması suretiyle gerçekleştirilen analiz."
+    },
+    {
+        "term": "GÖRÜNTÜ İSTİHBARATI",
+        "description": "Pankromatik, çoklu spektral ve kızılötesi sensörler ile lazer ve radar sistemleri tarafından algılanan görüntü ve sinyallerin yorumlanmasıyla haber derleme ve istihbarat üretimi."
+    },
+    {
+        "term": "GÖRÜNTÜ İŞLEME",
+        "description": "Bir görüntünün ya da videonun karakteristik özelliklerini tespit etmek amacıyla görüntü üzerinde gerçekleştirilen işlemler."
+    },
+    {
+        "term": "GÖRÜNTÜ TEMEL ANALİZİ",
+        "description": "Görüntü üzerinde görülebilen tüm nesnelerin tanımlanması, işaretlenmesi, ölçülebilir nitelikte olanların ölçülmesi, koordinatlandırılması ve yorumlanması suretiyle gerçekleştirilen analiz."
+    },
+    {
+        "term": "GÖRÜNTÜ YORUMLAMA",
+        "description": "Boyut, şekil, ton, renk, doku, gölge ve desen gibi görüntü özellikleri kullanılarak, nesnelerin görsel yorumlama yoluyla tanımlanması."
+    },
+    {
+        "term": "GÜVENLİ HABERLEŞME",
+        "description": "Bilginin çeşitli teknikler kullanılması suretiyle başkaları tarafından elde edilmesine imkân vermeyecek şekilde iletilmesi."
+    },
+    {
+        "term": "GÜVENLİ KABUK",
+        "description": "Uzak bilgisayar sistemlerine erişimde, bunlarla veri aktarımı yapılmasında kullanılan ve iki sistem arasındaki iletişimin kriptolanmasını sağlayan iletişim protokolü."
+    },
+    {
+        "term": "GÜVENLİK AÇIĞI",
+        "description": "Sistem üzerinde yazılım ve donanım kaynaklı oluşan saldırıya veya istimara açık ve zayıf kalmış bölümler."
+    },
+    {
+        "term": "GÜVENLİK DUVARI",
+        "description": "Kurallar kümesi temelinde ağa gelen ve giden paket trafiğini kontrol eden donanım veya yazılım tabanlı ağ güvenliği sistemi."
+    },
+    {
+        "term": "HABER",
+        "description": "1- Olmuş ya da olacak bir olay/olgu hakkında edinilen ham bilgi.2- Gözlem, rapor, söylenti ve tasarımlardan elde edilen çıkarımları da kapsamak üzere, işlendiğinde istihbarat niteliği kazanabilecek, açık ve kapalı kaynaklardan haber toplama yöntemleri vasıtasıyla derlenen her tür ham bilgi."
+    },
+    {
+        "term": "HABERLEŞME (MUHABERE)",
+        "description": "Çeşitli araçlar (telsiz, internet, telefon vb.) kullanarak yapılan iletişim."
+    },
+    {
+        "term": "HABERLEŞME GÜVENLİĞİ",
+        "description": "Gizli faaliyetlerle ilgili bilgilerin iletişim kanalları üzerinden intikali sırasında, bu bilgilerin yetkisiz kişi ve kuruluşlarca elde edilerek içeriğinin açığa çıkarılmasını önleme ve her tür müdahaleye karşı alınan güvenlik tedbirleri."
+    },
+    {
+        "term": "HACKTİVİZM",
+        "description": "Siyasi veya sosyal bir amaç doğrultusunda bilgisayar teknolojilerinin hacklenmesi politikası. “Hacking” ve “Activism” kelimelerinden türetilmiştir. Kuruluşlar, hükûmetler, şirketler ve bireyler hedef alınır."
+    },
+    {
+        "term": "HAVA FOTOĞRAFI",
+        "description": "Uçak, helikopter veya insansız hava araçları tarafından algılanan belirli geometrik bileşenlere sahip görüntü."
+    },
+    {
+        "term": "HAVALA/SARRAF HAVALESİ SİSTEMİ",
+        "description": "Legal yollardan aktarılamayan paranın sarraf, döviz bürosu vb. aracılar vasıtasıyla ülkeler arası kayıtsız transferi."
+    },
+    {
+        "term": "HİBRİT SAVAŞ",
+        "description": "Stratejik ve jeopolitik amaçlarla, düşman olarak addedilen ülkenin hassasiyetlerinin doğrudan veya dolaylı faaliyetlerle açık/gizli olarak hedef alınmak suretiyle nizami ve gayrinizami harp unsur ve araçlarının bütüncül bir şekilde kullanılması. Hibrit muharebenin diplomatik/siyasi, iletişim, askerî, ekonomik, mali, istihbarat ve hukuk alanlarında yürütüldüğü kabul edilir."
+    },
+    {
+        "term": "HİZMETE ÖZEL",
+        "description": "İzinsiz açıklanması veya yetkisiz kişilerce öğrenilmesi hâlinde herhangi bir idari faaliyete, gerçek veya tüzel kişiye, idari soruşturmaya, adli soruşturmaya ve kovuşturmaya zarar verebilecek belgeler için kullanılır."
+    },
+    {
+        "term": "ISO MODELİ",
+        "description": "ISO (Uluslararası Standartlar Organizasyonu) tarafından geliştirilen ve iki bilgisayar arasındaki iletişimin nasıl olacağını tanımlayan model."
+    },
+    {
+        "term": "İÇ GÜVENLİK",
+        "description": "Dar anlamda kamunun güvenli, huzurlu ve sağlıklı olması; geniş anlamda, devletin sosyal, siyasal, ekonomik ve hukuki temel düzeninin korunması."
+    },
+    {
+        "term": "İFŞA",
+        "description": "Gizlilik dereceli bilgi, personel, tesis, varlık ya da malzemenin yetkisiz bir alıcıya sözlü ya da fiziki araçlarla iletilmesi."
+    },
+    {
+        "term": "İKİ TARAFLI AJAN (PİSTON AJAN)",
+        "description": "İki farklı istihbarat teşkilatına aynı zamanda hizmet eden ve elde ettiği bilgileri fark gözetmeden iki tarafa birden veren canlı kaynak."
+    },
+    {
+        "term": "İLETİŞİM İSTİHBARATI",
+        "description": "Yasal radyo televizyon yayınları dışında kalan elektromanyetik dalgalarla yapılan hedef veya hedef olması muhtemel tüm iletişim sinyallerinin toplanması."
+    },
+    {
+        "term": "İLETİŞİM PROTOKOLÜ",
+        "description": "Farklı aygıtların ve donanım birimlerinin ya da bilgisayarların birbiriyle iletişimde bulunmalarına imkan veren, gönderilen iletilerin ortak bir anlayışa göre düzenlenmesi ve bazı dönüştürme işlemlerinin yapılmasını sağlayan kurallar bütünü."
+    },
+    {
+        "term": "İNSAN İSTİHBARATI",
+        "description": "İstihbarat literatüründe “İnsana dayalı istihbarat” olarak tanımlanan, canlı kaynaklara yönelik olarak gerçekleştirilen istihbari faaliyet."
+    },
+    {
+        "term": "İNTERNET PROTOKOL (IP) NUMARASI",
+        "description": "Ağ veya internet üzerinde yer alan bilgisayar, cep telefonu, tablet, IP telefon gibi cihazların her birine atanan ve o ağ içerisinde tekil olan (Başka bir cihazda aynı IP numarası kullanılamaz.) sayılardan oluşan adres bilgisi."
+    },
+    {
+        "term": "İNTRANET",
+        "description": "İnternet teknolojilerini kullanan ve erişimi kurum içi çalışanlarla sınırlandırılmış (dışa kapalı) iletişim ağı."
+    },
+    {
+        "term": "İSTASYON",
+        "description": "Bir istihbarat teşkilatının, yabancı bir ülkede yerleşik bulunan ve bu ülkedeki istihbari faaliyetleri ve ilişkileri yönetmekle görevlendirilen resmî ve idari merkezi."
+    },
+    {
+        "term": "İSTİHBARAT",
+        "description": "Politika yapıcıların ve ilgili devlet kuruluşlarının millî güvenlik ve menfaatlere ilişkin konularda doğru kararları verebilmek için ihtiyaç duydukları, rakip veya düşman tarafından korunan haber, bilgi ve tecrübeleri esas alan, bunların gizli toplama, işleme, analiz ve değerlendirme işleminden geçirilmesiyle üretilen, ilgili olduğu konuda karar vericiler için yeni bir anlayış geliştiren nihai ürün ve bu ürünü ortaya çıkaran faaliyet."
+    },
+    {
+        "term": "İSTİHBARAT ANALİZİ",
+        "description": "Karar vericilerin karşılaştıkları belirsizlikleri asgariye indirmek ve doğru karar vermelerini desteklemek amacıyla, üretilen istihbaratın sistemli biçimde organize edilmesi, çözümlenmesi (analizinin yapılması), yorumlanarak değerlendirilmesi ve rapor edilmesi süreci."
+    },
+    {
+        "term": "İSTİHBARAT BAŞARISIZLIĞI",
+        "description": "1- Ulusal çıkarları ilgilendiren bir konu veya olay hakkında, istihbarat çarkının toplama, değerlendirme, analiz, üretim ve dağıtım aşamalarından biri veya birkaçındaki yetersizlikten dolayı zamanında ve doğru istihbarat üretilememesi.2- Bir devletin ya da askerî gücünün isabetsiz ve kendi çıkarlarına zarar verecek şekilde hareket etmesine neden olan yanlış anlama durumu."
+    },
+    {
+        "term": "İSTİHBARAT ÇALIŞMALARI",
+        "description": "İstihbaratın yapısal ve metodolojik boyutlarının; tarih, ulusal güvenlik, uluslararası ilişkiler başta olmak üzere farklı akademik bakış açılarıyla incelendiği disiplinler arası akademik alan."
+    },
+    {
+        "term": "İSTİHBARAT DİPLOMASİSİ",
+        "description": "Ülkelerin çıkarları doğrultusunda bölgesel ve uluslararası görünürlükleri ile etkinliklerini artırmak, muhataplarının imkân ve yönelimini kendi lehlerine çevirmek amacıyla istihbarat teşkilatları tarafından uluslararası aktörler ve servisler nezdinde yürütülen faaliyetler."
+    },
+    {
+        "term": "İSTİHBARAT METODOLOJİSİ",
+        "description": "İstihbarat alanında, özellikle istihbarat analizi disiplininde tehditler hakkında faaliyet yürüten uzmanlar ve akademisyenler tarafından karar verme sürecinde geliştirilen ve izlenen yaklaşım, model ve yöntemlere verilen ad."
+    },
+    {
+        "term": "İSTİHBARAT MUHASEBESİ",
+        "description": "Bir istihbarat teşkilatı tarafından üretilen pozitif istihbarat muhtevasının, tekil veya kolektif şekilde yapılan değerlendirmesi."
+    },
+    {
+        "term": "İSTİHBARAT RAPORU",
+        "description": "Değerlendirme/Analiz ünite ve unsurlarınca düzenlenen, değerlendirilmiş, analiz süreçlerinden geçirilerek istihbarat ürünü haline getirilmiş bilgilerin ilgili muhataplara ulaştırılmasında kullanılan iletişim aracı."
+    },
+    {
+        "term": "İSTİHBARAT TEŞKİLATI",
+        "description": "Bir ülkenin millî güvenlik, kolluk, savunma ve dış politika hedeflerine erişme ve millî menfaatlerini koruma çabalarına destek amacıyla özel ve gizli yöntemlerle haber/bilgi derleyen ve bunları çeşitli aşamalardan geçirerek istihbarat üretimini gerçekleştiren devlet kurumu."
+    },
+    {
+        "term": "İSTİHBARATA KARŞI KOYMA",
+        "description": "Kritik öneme sahip kurum/kuruluş ve şahısların çalışmalarını ve kazanımlarını (çalışma metotları, imkân ve kabiliyetleri vb. dâhil), rakip/düşman bir istihbarat teşkilatına karşı korumayı amaçlayan faaliyetler bütünü."
+    },
+    {
+        "term": "İSTİHBARİ GÖZETİM/DENETİM",
+        "description": "Bir istihbarat servisinin yasaların öngördüğü ölçüde ilgili kurumlarca kontrol edilmesi."
+    },
+    {
+        "term": "İVEDİ",
+        "description": "İşlemin gerektirdiği süre içerisinde tamamlanması beklenen, gecikmeye mahal verilmemesi gereken yazılar."
+    },
+    {
+        "term": "İZİNSİZ GİRİŞ ÖNLEME SİSTEMİ",
+        "description": "Ağ veya sistemi kötü niyetli aktivitelerden korumak için sürekli izleyen sistem. Saldırıları hem tespit etmek hem de önlemek için tasarlanmıştır."
+    },
+    {
+        "term": "İZİNSİZ GİRİŞ TESPİT SİSTEMİ",
+        "description": "Ağ üzerindeki trafiği sürekli olarak izleyen ve şüpheli bir durumla karşılaştığında ağ yöneticisine uyarı gönderen, güvenlik duvarı üzerindeki ilgili trafiği kapatarak ağ güvenliğini sağlayan sistem."
+    },
+    {
+        "term": "KAÇMA KURTULMA",
+        "description": "Düşman elinden kurtulmak amacıyla ve dost bölgeye ulaşana kadar icra edilen önceden planlı yardımlı veya yardımsız faaliyetler."
+    },
+    {
+        "term": "KANAAT ÖNDERİ",
+        "description": "Hedef toplum/topluluk üzerinde veya belli bir alanda etki ve güce sahip olan, psikolojik operasyonlarda kullanılan kişi. “Görüş lideri” olarak da adlandırılır."
+    },
+    {
+        "term": "KANÇILARYA",
+        "description": "Büyükelçiliklerde yürütülen görevlerin bütünü ve bu görevleri yürüten kişilerin çalışmakta olduğu bina."
+    },
+    {
+        "term": "KAPSÜLLEME",
+        "description": "İnternet dünyasında, katmanlar veya veri taşıma teknolojilerinin (MPLS, GRE, VLAN vb.) bütünleşik kullanılması esnasında alt seviyedeki verinin bir kapsüle konularak üst katmana geçirilmesi."
+    },
+    {
+        "term": "KARA PROPAGANDA",
+        "description": "1- Kaynağın açığa çıkarılmadığı, tam anlamıyla bir istihbarat operasyonunun ürünü olan, sahte deliller ve iftiradan beslenen psikolojik bir silah.2- Hedef adına asılsız kaynaklara dayandırılan propaganda."
+    },
+    {
+        "term": "KARMA PROPAGANDA",
+        "description": "Beyaz (açık), gri, kara ve silahlı propaganda yöntemlerinin birlikte kullanıldığı propaganda türü."
+    },
+    {
+        "term": "KARŞI PROPAGANDA",
+        "description": "İç ve dış düşman güçler ve ülkeler tarafından yöneltilen propagandanın tahribatından korunmak, etkilerini yok etmek veya en az düzeyde tutmak için yapılan faaliyet."
+    },
+    {
+        "term": "KAYNAK",
+        "description": "Bir istihbarat servisinin ihtiyaç duyduğu haber veya bilgilerin temin edilmesine bizzat ya da dolaylı olarak katkıda bulunan şahıs veya araçlar. Haber veya bilgilerin temin edildiği şahıslar istihbari bir faaliyet içerisinde bilerek yer alabilecekleri gibi anılanlardan fark ettirilmeden de bilgi derlenebilir."
+    },
+    {
+        "term": "KENDİ GELEN",
+        "description": "Bilgi vermek veya iş birliği teklifinde bulunmak üzere bizzat gelen ya da çeşitli iletişim yöntemleriyle istihbarat teşkilatlarına müracaatta bulunan şahıs."
+    },
+    {
+        "term": "KETUMİYET",
+        "description": "İstihbarata konu olan bilginin gizlilik içinde elde edilmesi, bilginin Teşkilât ve yetkili kurumlar arasında paylaşılması sonrası gizliliğinin korunması."
+    },
+    {
+        "term": "KIRLANGIÇ/SERÇE",
+        "description": "“Bal Tuzağı” operasyonlarında kullanılan kadınlar. KGB tarafından “kırlangıç”, Batılı istihbarat servisleri tarafından “serçe” (sparrow) olarak adlandırılır."
+    },
+    {
+        "term": "KIYASLAMALI ANALİZ",
+        "description": "Aynı kaynağın bir konuyu işlemesindeki farklılıklar ile diğer kaynakların aynı dönemde konuyu işleyiş yöntemlerini kıyaslama işlemi."
+    },
+    {
+        "term": "KIYMETLENDİRME",
+        "description": "Haberin istihbarat değerinin, doğru olup olmadığının, ayrıca haber kaynağının güvenilirliğinin belirlenmesi süreci."
+    },
+    {
+        "term": "KLASİK İSTİHBARAT ÇARKI",
+        "description": "“İstihbarat ihtiyaçlarının tespiti ile tespit edilen istihbarat ihtiyaçları çerçevesinde haber toplama faaliyetlerinin yönlendirilmesi”, “haberlerin toplanması”, “haberlerin işlenmesi/değerlendirilmesi”, “istihbaratın yayımı/kullanılması” şeklinde dört aşama içeren, aralıksız devam etmesi ve kesintisiz sürmesi nedeniyle bir döngüye/çarka benzetilen işlemler dizisi."
+    },
+    {
+        "term": "KLAVYE KAYDEDİCİ",
+        "description": "Sisteme yüklenmesiyle aktif hale gelen tuş takip programları. Klavyede basılan her tuşu bir dosyaya kaydeder. Genellikle kullanıcı adları, şifreler ve kredi kartı bilgileri gibi kritik verileri çalmak için kullanılır."
+    },
+    {
+        "term": "KOD",
+        "description": "1- Okunduğu, konuşulduğu veya duyulduğu zaman kuşkuya neden olmayan, doğal anlamlı, gerçekte gizli faaliyette çalışan ve anlaşmış iki kişi arasında özel bir anlama gelen harf, kelime, cümle, işaret, rakam.2- Verinin simgesel biçimde gösterimi.3- Verilerin bir gösterimden diğerine dönüştürülmesinde kullanılan kurallar.4- Terör örgütünce güvenilen militanlarına verilen, güvenlik amacıyla zaman zaman değiştirilen sözcük, rakam vb. tanımlamalar."
+    },
+    {
+        "term": "KODLAMA",
+        "description": "1- Verinin ya da komutların simgesel bir biçime çevrilmesi.2- İhtiyaçlar doğrultusunda belirlenen adımların, programlama dili kullanılarak yazılım haline getirilmesi."
+    },
+    {
+        "term": "KOMPARTIMANTASYON",
+        "description": "Gizli faaliyetlerde bulunan kişi veya kuruluşların, çalışma güvenliğini koruyabilmek amacıyla mensuplarına yeteri kadar bilgi vermesi, sorumluluk, yetki ve görevi dışındaki faaliyetleri öğrenmemesi için alınan güvenlik önlemleri."
+    },
+    {
+        "term": "KONTR/ENTELİJANS",
+        "description": "Bir devletin, hasım entelijans (istihbarat) çalışmalarının her tür etkisini ortadan kaldırmak ve eldeki bilgileri espiyonaja, şahısları ve ülkeyi yıkıcı faaliyetlere, tesis ve malzemeleri sabotajlara karşı korumak için giriştiği aktif ve pasif faaliyetlerin tümü."
+    },
+    {
+        "term": "KONTR/ESPİYONAJ",
+        "description": "Bir ülkeye yönelik, rakip/düşman istihbarat teşkilatları tarafından gerçekleştirilen espiyonaj faaliyetlerinin zararsız duruma getirilmesi veya sonlandırılması için karşı koyma ve tedbirler."
+    },
+    {
+        "term": "KORUYUCU GÜVENLİK",
+        "description": "Hasım veya hasım olması muhtemel devletlerin veya her tür tehdit unsurlarının, bakanlıklarda, kurum ve kuruluşlarda, fiziki emniyet, sabotajlara karşı korunma, sabotajları önleme ve istihbarata karşı koyma, her tür koruyucu psikolojik faaliyet, personel güvenilirliği ile personel, araç, gereç, faaliyet, evrak güvenliği ve bunlara ilişkin tedbirleri ihtiva eden planlar ile bunların uygulanması hizmeti."
+    },
+    {
+        "term": "KÖSTEBEK",
+        "description": "Mensup olduğu istihbarat teşkilatına ihanet ederek başka bir istihbarat servisi adına çalışmayı kabul etmiş istihbarat görevlisi."
+    },
+    {
+        "term": "KRİTİK ANALİZ",
+        "description": "Kaynakların ve iş fonksiyonlarının işletme açısından öneminin ve bu kaynakların mevcut olmadığı durumlarda ne gibi etkilerin meydana gelebileceğinin belirlenmesi amacıyla yürütülen analiz."
+    },
+    {
+        "term": "KÜRESEL YER BELİRLEME UYDU SİSTEMİ",
+        "description": "Konum, hız ve zaman bilgilerinin alınmasını sağlayan küresel uydu sistemi."
+    },
+    {
+        "term": "LAZER İSTİHBARATI",
+        "description": "Lazer sistemlerle teknik ve coğrafik konum ile ilgili yapılan istihbarat."
+    },
+    {
+        "term": "LİYEZON",
+        "description": "Karşılıklı anlayış, faaliyet ve amaç birliğini sağlamak için, istihbarat teşkilatları veya askerî birlikler arasında sürdürülen haberleşme ve irtibat."
+    },
+    {
+        "term": "MANİPÜLASYON",
+        "description": "Haberin veya bilginin ekonomik, siyasi, dinî, etnik amaçlarla çıkar çevreleri veya kişisel beklentiler doğrultusunda kullanılması. Bir başka deyişle haberlerin iktisadi ve siyasi güç sahiplerinin çıkarlarına uygun biçimde formatlanması."
+    },
+    {
+        "term": "MASKE",
+        "description": "Gizli faaliyetlerle ilgili canlı veya cansız her tür ögeyle bu alandaki çalışmaları gizlemek amacıyla yaratılmış sahte kimlik."
+    },
+    {
+        "term": "MEDİKAL İSTİHBARAT (MEDINT)",
+        "description": "Tıbbi ve biyolojik alandaki gelişmeleri hem askerî hem de sivil sektörde değerlendirmek için üretilen istihbarat (nihai ürün) ve bu istihbaratın üretim süreci (faaliyet)."
+    },
+    {
+        "term": "MESLEK MEMURU",
+        "description": "Bir istihbarat teşkilatında, bilginin toplanması, değerlendirilmesi ve istihbaratın üretilmesinden birinci derecede sorumlu personel."
+    },
+    {
+        "term": "MİLLÎ İSTİHBARAT",
+        "description": "Türk milleti ve devletinin güvenliğine ve çıkarlarına ilişkin tüm konularda, ülke içinde ve dışında her tür kaynaktan faydalanılarak bilgi toplanması ve değerlendirilerek istihbarat üretilmesi faaliyeti."
+    },
+    {
+        "term": "MİT MENSUBU",
+        "description": "2937 sayılı Kanun veya bu Kanuna göre çıkarılmış yönetmeliklerde yazılı görevleri yerine getirmekle görevlendirilmiş MİT personeli ile diğer görevliler."
+    },
+    {
+        "term": "MİT PERSONELİ",
+        "description": "MİT’in kadrosuna dâhil memurlar, Türk Silahlı Kuvvetleri kadrolarında olup MİT’te görevlendirilenler, MİT’te çalıştırılan sözleşmeli personel."
+    },
+    {
+        "term": "MODERN İSTİHBARAT ÇARKI",
+        "description": "Küreselleşme ve teknolojik gelişmelerin ilerlemesi sonucunda, “Klasik İstihbarat Çarkı” olarak adlandırılan döngüye belirsizlikleri ve sürpriz etkisini azaltmak, boşlukları anlamlı varsayımlar ile doldurmak için senaryolar üretmek amacıyla “Analiz” aşamasının dâhil edilmesi, bu şekilde “Değerlendirme” ve “Analiz” süreçlerinin birbirinden ayrıştırılması sonucunda oluşan istihbari işlemler dizisi."
+    },
+    {
+        "term": "MUHBİR",
+        "description": "Şüphelendiği durumu istihbarat teşkilatına bildiren şahıs."
+    },
+    {
+        "term": "MÜLAKAT",
+        "description": "Bilgi vermekte olduğunu bilen bir kişiden, bilgi almak amacıyla gerçek amaç ve ilgi gizlenmek suretiyle yapılan planlı görüşme."
+    },
+    {
+        "term": "NEGATİF İSTİHBARAT",
+        "description": "Hasım veya hasım olması muhtemel ülkelerin tarafımıza yönelik haber toplaması."
+    },
+    {
+        "term": "NESNELERİN İNTERNETİ",
+        "description": "Farklı iletişim protokolleri aracılığıyla birbirleriyle haberleşebilen, algılama ve veri işleme yeteneğine sahip nesne veya cihazların oluşturduğu küresel ağ."
+    },
+    {
+        "term": "NORMAL",
+        "description": "İvedilik derecesi itibarıyla gecikmesi bilgi akışında zafiyet oluşturmayacak, rutin nitelikteki yazılar. Süre belirtilmese dahi bu nitelikteki yazışmaların da idari işleyişe uygun olarak en kısa sürede cevaplandırılması gerekir."
+    },
+    {
+        "term": "NÜKLEER İSTİHBARAT",
+        "description": "Radyoaktif yayınımın derlenmesi ve işlenmesi suretiyle, bu yayınımın etkilerini değerlendirmek üzere üretilen istihbarat ve bu istihbaratın üretim süreci."
+    },
+    {
+        "term": "OLAY MÜDAHALESİ",
+        "description": "Bir felaket veya önemli bir güvenlik olayı meydana geldiğinde, iş süreçlerinin veya işletmenin zarara uğramaması için alınması gereken aksiyonlar bütünü."
+    },
+    {
+        "term": "OLTALAMA SALDIRISI",
+        "description": "Saldırganın çok sayıda kişiye, özel/hassas bilgilerini elde etmek veya altyapılarına sızarak kötü amaçlı yazılım yerleştirmek amacıyla, özel olarak tasarlanmış sahte mesajları e-posta, web sayfaları, SMS vb. kanallarla gönderdiği bir sosyal mühendislik türü."
+    },
+    {
+        "term": "OPERASYON",
+        "description": "Hedeflerin belli konulardaki niyet, kapasite, imkân ve kabiliyetlerini keşfetmek için sistematik olarak planlama/yönlendirme, haber/bilgi toplama, işleme/değerlendirme, analiz/üretim, yayım faaliyetleri ile rakip/düşmanın benzer çabalarına karşı koyma faaliyetleri dizisi."
+    },
+    {
+        "term": "OPERASYONEL İSTİHBARAT",
+        "description": "Her tür askerî harekâtın planlanması ve yürütülmesine dair gerekli istihbarata verilen ad."
+    },
+    {
+        "term": "OTONOM SİSTEM",
+        "description": "Dinamik olarak değişen durumlar karşısında insan operatörünün müdahalesini en aza indiren veya operatör müdahalesi gerektirmeyen akıllı fiziksel sistem."
+    },
+    {
+        "term": "ÖLÇÜM VE İZ İSTİHBARATI (MASINT)",
+        "description": "Çeşitli teknik sensörler kullanarak, kaynak alıcı-vericinin sinyal izlerini algılamak, kimliklendirmek ve izlemek amacıyla yürütülen istihbarat."
+    },
+    {
+        "term": "ÖLÜ OPERASYON (OLAY)",
+        "description": "Herhangi bir nedenle kapatılan veya sona erdirilen operasyon."
+    },
+    {
+        "term": "ÖNLEYİCİ İSTİHBARAT",
+        "description": "Ülkenin ulusal çıkarlarına ve toplumsal güvenliğine tehdit oluşturan unsurların, eylem gerçekleştirmeden önce yasal sınırlar çerçevesinde belirlenmesi ve söz konusu unsurlar hakkında bilgi alma, değerlendirme, analiz ve önleme/karşı koyma amacıyla yürütülen çalışmalar."
+    },
+    {
+        "term": "ÖRGÜT KADROSU",
+        "description": "Bir terör örgütü içerisinde bilerek veya isteyerek faaliyette bulunan şahıslar."
+    },
+    {
+        "term": "PERSONA NON GRATA (İSTENMEYEN ADAM)",
+        "description": "1- Bulunduğu ülke için zararlı faaliyetlere giriştiği veya katıldığı meydana çıkarılan bir diplomatik misyon üyesine uygulanan işlem (sınır dışı edilmesi veya kendi hükûmetince geriye çekilmesinin istenmesi).2- Gönderen devletin kabul eden devletteki temsilciliğinde görev yapmakta iken, espiyonaj ya da kabul eden devlet aleyhinde faaliyetler göstermesi veya göreviyle bağdaşmayacak davranışları sebebiyle kabul eden devlet tarafından kendine tanınan belli bir süre zarfında ülkeyi terk etmesi istenen kişi."
+    },
+    {
+        "term": "POLİGRAFİ CİHAZI",
+        "description": "Şahısların nabız, kan basıncı gibi duyguya eşlik eden çeşitli tepkilerini aynı anda hareketli grafikler aracılığıyla ölçerek doğru beyanda bulunup bulunmadıklarını tespite yardımcı olan cihaz. “Yalan Makinesi” olarak da adlandırılır."
+    },
+    {
+        "term": "POZİTİF İSTİHBARAT",
+        "description": "Hasım veya hasım olması muhtemel ülkeler hakkında haber toplanması."
+    },
+    {
+        "term": "PROFESYONEL AJAN",
+        "description": "Hiçbir kişi ve teşkilattan talimat almaksızın bağımsız olarak yürüttükleri faaliyet sonucu elde ettikleri bilgileri, ilgili olduğunu tahmin ettikleri bir veya birden fazla teşkilata kaynak göstermeden para veya çıkar karşılığı satan kişi."
+    },
+    {
+        "term": "PROFİL ANALİZİ",
+        "description": "Hedeflerin kişilik özellikleri ve yaşam biçimlerine ait detay bilgilerin toplanarak istihbari açıdan değerlendirilmesi."
+    },
+    {
+        "term": "PROLİFERASYON",
+        "description": "Kelime anlamı olarak “yayılmayı” ifade etmekle birlikte; “Kitle İmha Silahları (KİS)” ve silah atma vasıtalarının üretiminde kullanılabilecek her tür mal, malzeme ve teknolojinin riskli ülkeler ile terörist unsurlar tarafından elde edilmesine yönelik çabalar."
+    },
+    {
+        "term": "PROPAGANDA",
+        "description": "Bir öğreti, düşünce ve inancı, başkalarına tanıtmak, benimsetmek ve yaymak amacıyla söz, yazı vb. yollarla gerçekleştirilen çalışma."
+    },
+    {
+        "term": "PROPAGANDA ARACI",
+        "description": "Kaynağın hazırladığı propaganda malzemesini vasata veya hedef kitleye ulaştıran, insan, medya organları, broşür, kitap, e-posta vb. kullanılabilir her tür iletişim unsuru."
+    },
+    {
+        "term": "PROTOKOL",
+        "description": "İki ya da daha fazla bilgisayar arasındaki iletişimi sağlamak amacıyla verileri düzenlemeye yarayan kurallar bütünü."
+    },
+    {
+        "term": "PROVOKASYON",
+        "description": "Bir istihbarat teşkilatı mensubunu, bir örgütü/kişiyi kışkırtma, aldatma, yanıltma, teşvik/öfkelendirme yoluyla tasarlanan bir amaca yöneltmek veya söz/davranışlarıyla açığa çıkarmak, bir konu hakkında dolaylı olarak bilgi derlemek ve sonuç almak için girişilen faaliyet."
+    },
+    {
+        "term": "PSİKOFİZYOLOJİK DOĞRULUK TESTİ (PDT)",
+        "description": "Psikolojik temele dayalı olarak oluşturulan testle şahısların verdikleri cevapların doğruluk derecesinin poligrafi cihazı vasıtasıyla ölçülmesi."
+    },
+    {
+        "term": "PSİKOLOJİK FAALİYET",
+        "description": "Ulusal güvenlik politikaları doğrultusunda, yabancı hükûmetler, organizasyonlar ve/veya grupların tutum ve davranışlarını seçilmiş istihbarat bilgileri, sembol ve işaretlerle etkileme ya da biçimlendirmeye yönelik icra edilen planlı çalışma."
+    },
+    {
+        "term": "PSİKOLOJİK HAREKÂT",
+        "description": "Hedef veya hedef olması muhtemel ülke, örgüt ve kuruluşlar tarafından, birbirlerine karşı çıkarlarının gerçekleşmesini siyasi, ekonomik, askerî ve ideolojik amaçlarına ulaşılmasını sağlayacak veya engelleyecek, seçilmiş kitlelerde uygun duygu, düşünce, tutum ve davranış oluşturacak planlı psikolojik faaliyetler."
+    },
+    {
+        "term": "PSİKOLOJİK HAREKÂTA KARŞI KOYMA",
+        "description": "Yabancı istihbarat servisleri, organizasyonlar, çıkar grupları ve bunlarla bağlantılı şahıs ve yapıların yazılı, görsel ve işitsel medya vasıtasıyla yürüttükleri sızma, yıpratma, propaganda ve bilgi operasyonlarının tespit edilerek engellenmesi."
+    },
+    {
+        "term": "PSİKOLOJİK İSTİHBARAT",
+        "description": "Hedef kişi, kitle, sınıf, grup, örgüt, kuruluş ve ülkelere ilişkin psikolojik etkisi olan veya olması muhtemel haberlerin istihbari faaliyetlerde kullanılması amacıyla toplanması ve değerlendirilmesi sonucu üretilen ürünler veya bilgiler."
+    },
+    {
+        "term": "PSİKOLOJİK SAVAŞ",
+        "description": "Barışta ve savaşta hedef ülke halkının moral gücünü kırmak amacıyla girişilen ve çeşitli yollardan uygulanan sürekli ya da kısa süreli eylemler."
+    },
+    {
+        "term": "PSİKOLOJİK SAVUNMA",
+        "description": "Bir ülkenin, halkın moral gücünü yükseltmek ve kendisine yönelik iç ve dış psikolojik savaş çabalarını etkisiz kılmak için aldığı tedbirler."
+    },
+    {
+        "term": "PSİKOLOJİK YANILTMA",
+        "description": "Başta politik karar vericiler olmak üzere, kilit aktörlerin yanlış kararlar vermeye sevk edilmesi amacıyla, çarpıtılmış bilgilerin doğrudan veya dolaylı olarak yayılması."
+    },
+    {
+        "term": "PSİKOMETRİK TEST",
+        "description": "Personel seçiminde adayların yetenekleri, becerileri, performansları, savunma mekanizmaları, güdüleri ve tutumları hakkında bilgi edinme amacına olanak sağlayan sistemli sorular bütünü."
+    },
+    {
+        "term": "RADAR İSTİHBARATI",
+        "description": "Radar ekranında meydana gelen hedef ekoların, irtifa, adet, iz analizi sonuçlarından elde edilen istihbarat. Ölçüm ve İz İstihbaratı’nın (MASINT) bir alt disiplini."
+    },
+    {
+        "term": "RADYASYON İSTİHBARATI",
+        "description": "Elektrik kablolarından, genellikle bilgisayarlardan, veri bağlantılarından ve elektronik ağlardan indüksiyon olarak oluşturulan kasıtsız radyasyondan toplanan askerî istihbarat."
+    },
+    {
+        "term": "RADYOLİNK İSTİHBARATI (RALİS)",
+        "description": "Hedef veya hedef olması muhtemel devlet ve örgütlere yönelik, noktadan noktaya gerçekleşen radyolink sinyallerinden elde edilen istihbarat. İstihbarat literatüründe çoğunlukla “sinyal istihbaratı” içerisinde ele alınmaktadır."
+    },
+    {
+        "term": "ROMEO/KUZGUN",
+        "description": "“Bal Tuzağı” operasyonlarında hedefi baştan çıkarmakla görevli erkek istihbarat görevlisi. Batılı istihbarat literatüründe “kuzgun” olarak adlandırılmaktayken, Doğu Alman İstihbarat Teşkilatı’nın (Stasi) Soğuk Savaş dönemi operasyonlarında kullanılan Romeo terimi günümüzde daha yaygın kullanılmaktadır."
+    },
+    {
+        "term": "ROOTKİT",
+        "description": "Bilgisayarlara bulaşan, çalışan işlemler arasında kendini gizleyen, kötü niyetli kişilere uzaktan bilgisayarın tam hâkimiyetini sağlayan, tespit edilmesi zor olan kötü amaçlı yazılım."
+    },
+    {
+        "term": "SAFE HOUSE (S/H)",
+        "description": "Gizli buluşmalar yapmak, araç-gereç ve kişileri saklamak, gerektiğinde kısa süre barınmak amacıyla kiralanan veya satın alınan, gizli faaliyetin amacına uygun, önceden keşif çalışması yapılarak dikkat çekmeyecek semtlerde bulunan, maskelenmiş iş yeri/oda/kat/daire. Güvenli Ev veya Emin Ev."
+    },
+    {
+        "term": "SAĞIR ODA",
+        "description": "İçerisinde hiçbir elektronik aksamın bulunmadığı yalıtılmış oda."
+    },
+    {
+        "term": "SALDIRI ÖNLEME SİSTEMİ",
+        "description": "Bir ağı kötü amaçlı faaliyetlere karşı sürekli olarak izleyen, vaka meydana gelmesi halinde bunu rapor eden ya da engelleyen ağ güvenlik yazılımı veya donanımı."
+    },
+    {
+        "term": "SALDIRIŞ AJANI",
+        "description": "Sınırdaş ülkelerde belirgin bir hedefin ele geçirilmesi veya bir faaliyetin gerçekleştirilmesi için illegal sınır geçişiyle hedef ülkeye sızdırılan, faaliyet sonrası kendi ülkesine yine illegal yolla dönen, özel yetiştirilmiş ve hedef ülkeyi iyi bilen şahıs."
+    },
+    {
+        "term": "SAPTIRMA",
+        "description": "Dikkatleri hasım propagandadan uzaklaştırmak için önemli ve uygun temaların kullanılmasını içeren bir teknik."
+    },
+    {
+        "term": "SERVİS",
+        "description": "Yabancı istihbarat teşkilatı."
+    },
+    {
+        "term": "SIFIRINCI GÜN SALDIRISI",
+        "description": "Kötü amaçlı bir siber aktörün, bir sisteme izinsiz erişim sağlamak için yazılım üreticisi veya siber güvenlik araştırmacıları tarafından henüz fark edilmemiş bir güvenlik açığını istismar etmesi."
+    },
+    {
+        "term": "SİBER",
+        "description": "Sanal gerçeklik, internete ait olan."
+    },
+    {
+        "term": "SİBER CASUSLUK",
+        "description": "Gizli ve kritik bilgileri siyasi, askerî, diplomatik veya ekonomik sebepler doğrultusunda ele geçirmek için siber uzayda yürütülen faaliyetler bütünü."
+    },
+    {
+        "term": "SİBER GÜVENLİK",
+        "description": "Siber ortamı oluşturan bilişim sistemlerinin saldırılardan korunmasını, bu ortamda işlenen bilginin gizlilik, bütünlük ve erişilebilirliğinin güvence altına alınmasını, saldırıların tespit edilmesini, bu tespitlere karşı tepki mekanizmalarının devreye alınmasını ve sonrasında ise sistemlerin yaşanan (siber güvenlik) olay öncesi durumlarına geri döndürülmesini sağlamak amacıyla kullanılan araçlar, politikalar, güvenlik kavramları, güvenlik teminatları, kılavuzlar, risk yönetimi yaklaşımları, faaliyetler, eğitimler, uygulamalar ve teknolojilerin tümü."
+    },
+    {
+        "term": "SİBER İSTİHBARAT",
+        "description": "Sibernetik bilimine konu olan elektronik-otomatik dijital sistemler ile ileri teknoloji ürünü cihaz, araç ve makinelerin kullanımı suretiyle bilgisayarlar veya ağ sistemleri üzerinden yapılan istihbarat."
+    },
+    {
+        "term": "SİBER SALDIRI",
+        "description": "Bilişim cihazlarını veya ağlarını hedef alan, bunlar üzerinde bulunan verilere izinsiz erişim sağlanması veya hedef alınan sistemlerin hizmet veremez hale getirilmesini amaçlayan saldırılar."
+    },
+    {
+        "term": "SİBER SAVAŞ",
+        "description": "Zarar vermek, manipüle etmek, kendi çıkarları çerçevesinde kullanmak, kesinti yaratmak, tamamen hizmet veremez duruma getirmek üzere gerçekleştirilen saldırı faaliyetlerinin tümü."
+    },
+    {
+        "term": "SİBER SAVUNMA",
+        "description": "Bilişim sistemlerinin, siber tehditlere ve saldırılara karşı korunması amacıyla alınması gereken önlemler dizisi."
+    },
+    {
+        "term": "SİBER TEHDİT",
+        "description": "Hasım devletler, suç grupları ve bireysel bilgisayar korsanlarının da içinde bulunduğu bilgisayar ağı işletim kabiliyetine sahip çeşitli aktörlerin, bilgi altyapılarının unsurlarını hedef alma/bozma, bilgisayar ağını kendi çıkarları doğrultusunda kullanma, bilgisayar ağına saldırı, içeriden imkânlı kılınan operasyonlar ve destek zinciri operasyonları da dâhil olmak üzere yaratabileceği tehdit."
+    },
+    {
+        "term": "SİBER UZAY",
+        "description": "Dünya çapında uydular ve iletişim altyapıları vasıtasıyla birbirleriyle bağlantı kurabilen bilgisayar ve mobil iletişim cihazlarının oluşturduğu sanal evren."
+    },
+    {
+        "term": "SİNYAL İSTİHBARATI",
+        "description": "İnsanlar arasındaki iletişime ilişkin sinyallerin (İletişim İstihbaratı) veya iletişimde kullanılan elektronik sinyallerin (Elektronik İstihbarat) direkt toplanması ve işlenmesi sonucu üretilen istihbarat ve bu istihbaratın üretim süreci. “Muhabere Elektronik İstihbaratı” olarak da adlandırılır."
+    },
+    {
+        "term": "SİYASİ İSTİHBARAT",
+        "description": "Hedef veya hedef olması muhtemel devletlerin, siyasi yapılarını, millî politikalarını, teşkilatlanma yeteneğini, nüfuz ve çıkar gruplarını, dış ilişkilerini, güç kaynaklarını ve bozguncu unsurlarını inceleyen istihbarat kolu."
+    },
+    {
+        "term": "SOLUCAN",
+        "description": "Virüs gibi kendini bir bilgisayardan başka bilgisayara kopyalamak için tasarlanmış zararlı yazılımlar. Yayılma işlemini ağ üzerinden otomatik olarak yapar."
+    },
+    {
+        "term": "SORGU",
+        "description": "Suç niteliği taşıyan bir sorun veya görev alanı içerisinde bulunan konu hakkında ilgili bulunanlara sorular yöneltilmesi."
+    },
+    {
+        "term": "SOSYAL AĞ",
+        "description": "İnsanlar veya sosyal gruplar arasında politik, ailevi, coğrafi, resmî veya bunların dışında bir yolla kurulan arkadaşlık, akrabalık, üyelik gibi bağların oluşturduğu ilişkiler."
+    },
+    {
+        "term": "SOSYAL İSTİHBARAT",
+        "description": "Hedef veya hedef olması muhtemel ülkelerin toplumsal yapısının niteliği ve niceliğini inceleyen istihbarat kolu."
+    },
+    {
+        "term": "SOSYAL MEDYA İSTİHBARATI",
+        "description": "Millî güvenlik gereklilikleri doğrultusunda istihbarat ürünleri oluşturmak adına, pasif/aktif yöntemlerden istifadeyle sosyal medya platformlarındaki veri ve bilginin tespiti, toplanması ve analiz edilmesi."
+    },
+    {
+        "term": "SOSYAL MEDYADA ALGI YÖNETİMİ",
+        "description": "Sosyal medyanın türlü araç ve uygulamalarını kullanarak (resim, mesaj, ses, video, vd.) hedef kitle, grup ya da kişiye dönük sistematik yönlendirme süreci."
+    },
+    {
+        "term": "SOSYAL MÜHENDİSLİK",
+        "description": "Psikolojik ikna yöntemleri kullanılarak hedefe bilgi ifşa ettirilmesini ya da amaçlanan faaliyetin hedefe yaptırılmasını sağlayan yöntemlerin tümü."
+    },
+    {
+        "term": "STEGANOGRAFİ",
+        "description": "Bir haberleşmenin veya iletinin mevcudiyetinin gizlenmesi bilimi. Eski Yunancada “gizlenmiş yazı” anlamına gelir."
+    },
+    {
+        "term": "STRATEJİK İSTİHBARAT",
+        "description": "Devletin bütünlüğünü, güvenliğini sağlamak veya menfaatlerini korumak için ulusal politikayla saptanan hedefleri elde etmek üzere, devlet organlarının yaptığı istihbaratın tümü."
+    },
+    {
+        "term": "SUÇÜSTÜ",
+        "description": "Casusluk suçu işlemekte olan bir yabancının, vatan haininin veya yabancı bir istihbarat memurunun iş üzerinde yakalanması."
+    },
+    {
+        "term": "SÜBVERSİF (YIKICI) FAALİYET",
+        "description": "Anayasa ile belirlenmiş yönetim biçimini değiştirmeye, devletin bütünlüğünü parçalamaya, devlet otoritesini ortadan kaldırmaya yönelik olarak iç ve dış organizasyonlar tarafından legal ve illegal olarak yönlendirilen faaliyet."
+    },
+    {
+        "term": "ŞİFRE BİLİMİ",
+        "description": "Çeşitli yazıların veya iletilerin, belli bir sisteme göre şifrelenmesi (kriptografi), bu mesajların güvenlikli bir ortamda alıcıya iletilmesi ve iletilen şifreli mesajların çözümü (kriptoanaliz) ile ilgilenen bilim dalı."
+    },
+    {
+        "term": "ŞİFRE ÇÖZME (DEŞİFRE)",
+        "description": "Şifreleme (kriptografi) metotları ile oluşturulmuş bir şifreli metni açık ve anlaşılır hale getirme."
+    },
+    {
+        "term": "TAKTİK İSTİHBARAT",
+        "description": "Hareketli ve değişen bir durumda (muharebede olduğu gibi) düşman taraf hakkında üretilen kısa süreli istihbarat ve bu istihbaratın üretim süreci. “Muharebe İstihbaratı” olarak da adlandırılır."
+    },
+    {
+        "term": "TARAF DEĞİŞTİRME",
+        "description": "İstihbari bakımdan değer taşıyan bir kişinin, fikren ve/veya fiziki olarak rakip/düşman tarafa geçmesi ve/veya bağlanması."
+    },
+    {
+        "term": "TARASSUT",
+        "description": "Gözetleme faaliyetleri için geçmiş dönemde kullanılan terim."
+    },
+    {
+        "term": "TASNİF",
+        "description": "Haberin değerlendirilmesi sürecinde benzer bilgilerin bir araya getirilmesi."
+    },
+    {
+        "term": "TEHDİT DEĞERLENDİRMESİ",
+        "description": "İç ve dış tehdit odaklarının faaliyetlerini, imkân-kabiliyetleri ile zaaflarını belirlemek amacıyla belirli süreleri kapsayacak şekilde toplanan açık ve gizli bilgilere dayanılarak yapılan değerlendirme."
+    },
+    {
+        "term": "TEHDİT UNSURU",
+        "description": "Millî politikanın tatbikini önleyecek veya güçleştirecek, millî güvenliğe ve menfaatlere zarar verebilecek her tür teşebbüs ve gayretler ile buna sebep olan kişi ve oluşumlar."
+    },
+    {
+        "term": "TEKNİK İSTİHBARAT",
+        "description": "1- Siber, sinyal, elektronik ve görüntü kaynaklarından temin edilen ham bilginin toplanması ve analiz edilmesi neticesinde elde edilen istihbarat türü.2- Hedef veya hedef olabilecek devletlerin, çeşitli yollardan elde edilmiş her tür teknik aygıt ve gereçleriyle kimyasal bileşimleri üzerinde bilimsel araştırma sonucuna göre yapılan değerlendirmeden elde edilen istihbarat (haber toplama çalışması)."
+    },
+    {
+        "term": "TELEMETRİ İSTİHBARATI",
+        "description": "Genel olarak uyduların, füzelerin ve diğer uzaktan izlenen cihazların konumları, hızları, motor durumları ve diğer ölçümleri hakkında yer istasyonlarına sürekli gönderdiği sinyaller vasıtasıyla elde edilen istihbarat."
+    },
+    {
+        "term": "TEMEL İSTİHBARAT",
+        "description": "Hedefin imkân-kabiliyetleri ve zayıf taraflarının tespit ve takibine yönelik olarak temel ve nispeten değişmeyen bilgileri içeren, cari ve tahmini istihbaratın üretilmesine dayanak teşkil eden, elde edildiği dönemde olduğu gibi günümüz istihbari ihtiyaçlarını da karşılama özelliğine sahip olan, önem ve önceliğini zaman içerisinde koruyan genel istihbarat bilgileri."
+    },
+    {
+        "term": "TERSİNE MÜHENDİSLİK",
+        "description": "Bir sistemin yapısal işlevinin veya çalışmasının, analitik yöntemle keşfedilmesi işlemi. Sistemin yazılım programının parçalarına ayrılması ve çalışma prensiplerinin detaylı şekilde analiz edilmesi."
+    },
+    {
+        "term": "TEŞKİLAT ŞART VE VASIFLARI",
+        "description": "MİT’e alınacak personelin kabul edilebilmesi ve MİT’te görevlendirildikten sonra görevde kalabilmesi için uymak ve karşılamakla yükümlü olduğu şartlar, vasıflar."
+    },
+    {
+        "term": "TİCARİ İSTİHBARAT",
+        "description": "İşletmelerin rekabet ortamlarını, fırsatları ve zorlukları anlamalarına yardımcı olmak amacıyla, rakipler, müşteriler, ürünler ve diğer pazar faktörleri hakkında rekabet avantajına katkı sağlayan bilgilerin toplanması, analiz edilmesi, yorumlanması ve stratejik kararların alınmasında kullanılacak hale getirilmesi."
+    },
+    {
+        "term": "TRİPL AJAN",
+        "description": "Üç ayrı istihbarat servisi tarafından angaje veya temin edilmiş ancak bunlardan sadece birine sadakat gösteren, diğerlerine ihanette bulunan canlı kaynak."
+    },
+    {
+        "term": "TRUVA ATI",
+        "description": "Saldırganlar tarafından gizli verileri çalmak, kullanıcılara karşı casusluk yapmak ve sistemlere izinsiz erişim elde etmek için kullanılan ve zararlı program barındıran kötü amaçlı yazılımlar. Bu terim, “Truva atı” mitinden türemiştir."
+    },
+    {
+        "term": "ULAŞTIRMA VE İLETİŞİM İSTİHBARATI",
+        "description": "Hedef veya hedef olması muhtemel ülkelerin ulaştırma ve iletişim ağlarının durumları, yapısı, kapasiteleri, teşkilatları veya tesislerin yeterlilik dereceleri ve gelişmeleri hakkında üretilen istihbarat."
+    },
+    {
+        "term": "UYUYAN AJAN",
+        "description": "Büründüğü maskeyi benimseterek çevresinin güvenini sağlayıncaya kadar göreve sevk edilmeyen ya da içinde bulunduğu koşullar yüzünden geçici süreliğine görevden çekilen ajan."
+    },
+    {
+        "term": "VERİ MADENCİLİĞİ",
+        "description": "Büyük Veri’nin incelenerek anlamlı örüntüler (bir şey veya olay kümesindeki ögelerin ardışık olarak, düzenli bir biçimde birbirlerini takip ederek yenilenmesi durumu) bulmak amacıyla otomatik veya yarı otomatik yöntemler/araçlar ile işlenmesi."
+    },
+    {
+        "term": "VERİ SIZINTISI",
+        "description": "Verilerin yanlış hedefe gönderilmesi, çalınması, silinmesi veya sızdırılması."
+    },
+    {
+        "term": "VİDEO GÖRÜNTÜ MANİPÜLASYONU (DEEPFAKE)",
+        "description": "Sahte olanı gerçek gibi göstermek amacıyla başta videolar olmak üzere, dijital içeriklerdeki yüzleri ve sesleri değiştirmek için kullanılan teknoloji. Adını yapay zekanın bir alt kümesi olan “Derin Öğrenme”den (deep learning) almıştır."
+    },
+    {
+        "term": "VİRÜS",
+        "description": "Bilgisayarlarda veya bilgisayar ağları aracılığıyla kendi kendine çoğalabilen kötü amaçlı yazılım programı."
+    },
+    {
+        "term": "YALNIZ  KURT",
+        "description": "Bir grup, hareket veya ideolojiyi destekleyici şiddet eyleminde bulunan, ancak bunu herhangi bir komuta yapısı dışında tek başına yapan kişi."
+    },
+    {
+        "term": "YANILTMA",
+        "description": "Bir operasyonu gözleyen şahıslara, operasyonun kendi istedikleri yönde seyrettiği izlenimi verilmesi ya da mevcut durumun kamufle edilmesi."
+    },
+    {
+        "term": "YANILTMA İSTİHBARATI",
+        "description": "Kitle iletişim araçlarıyla, yanlış veya tahrif edilmiş tek taraflı haberleri sistemli bir şekilde yaymak, haberleri alan ve kullananları haberlere uygun, fakat gerçeğe aykırı düşünce, tedbir ve hareketlere sevk ederek faaliyeti yürütene fayda sağlamak maksadıyla girişilen faaliyetler bütünü, istihbarat alt disiplini."
+    },
+    {
+        "term": "YANILTMA SALDIRISI",
+        "description": "Saldırganın bir sisteme yetkisiz erişim sağlamak için meşru bir kullanıcı gibi davranması. IP, DNS, GPS, web sitesi, e-posta gibi ortamları yanıltması şeklinde olabilir."
+    },
+    {
+        "term": "YILDIRIM",
+        "description": "Ülkemizi/millî güvenliğimizi doğrudan tehdit eden olaylar, alarm mesajları, anlık işlem/tepki verilmesi ve önlem alınmasını gerektiren hayati olaylarda (savaş, kalkışma, eylem vb. olağanüstü haller) kullanılan ivedilik derecesi. En süratli iletişim vasıtasıyla ilgili makam ve birimlerin bilgilendirilmesi gereken olayları kapsar. Kısa ve öz olmalıdır."
+    },
+    {
+        "term": "ZARARLI YAZILIM",
+        "description": "Bir bilgisayar, sunucu, istemci veya bilgisayar ağında hizmet kesintisine neden olmak, özel bilgileri sızdırmak, bilgi veya sistemlere yetkisiz erişim sağlamak, kullanıcıların bilgiye erişimini engellemek için kasıtlı olarak tasarlanmış kötü amaçlı yazılım."
+    },
+    {
+        "term": "ZOMBİ",
+        "description": "Üçüncü tarafların, denetimini ele geçirdiği bilgisayarı tanımlamakta kullanılan terim."
+    },
+    {
+        "term": "ZULA",
+        "description": "İstihbarat servisleri tarafından icra edilen operasyonları desteklemek amacıyla, ileride ihtiyaç duyulan malzemelerin gizlenmesi."
+    }
+]
